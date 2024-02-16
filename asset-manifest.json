@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mani/static/css/main.f855e6bc.css",
+    "main.js": "/mani/static/js/main.a7244c92.js",
+    "static/js/453.2ede0aea.chunk.js": "/mani/static/js/453.2ede0aea.chunk.js",
+    "static/media/logo.svg": "/mani/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mani/index.html",
+    "main.f855e6bc.css.map": "/mani/static/css/main.f855e6bc.css.map",
+    "main.a7244c92.js.map": "/mani/static/js/main.a7244c92.js.map",
+    "453.2ede0aea.chunk.js.map": "/mani/static/js/453.2ede0aea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a7244c92.js"
+  ]
+}
